@@ -46,8 +46,39 @@ Brands I've helped grow include Just Water Co, Just Solar Co, Seamless Concrete,
 
 ## About
 
-> TODO: paste the full version opening "Most businesses don't need more AI."
-> (It wasn't included in the handover, so it's not saved here yet.)
+Most businesses don't have a tools problem. They have a communication problem.
+
+I've seen it from every side of the table.
+
+I started out selling websites and ads. Then business development for everyone from local small businesses to large enterprises. I've worked across the public sector, held roles in companies of every size, and spoken in rooms full of people from every walk of life.
+
+Different rooms. Same lesson every time.
+
+When a business stalls, it's rarely because it's missing a piece of software or the latest tactic. It's because the message gets lost somewhere between the owner, the team and the customer. Leadership says one thing. The team hears another. The customer gets something else entirely.
+
+More tools don't fix that. Intelligent communication does.
+
+My bank recently made me book a branch appointment for something the app could do. The teller agreed with me. We both stood there, agreeing, while it got done the slow way anyway.
+
+That's most organisations. Bloated process. Nobody owning the outcome. Everyone knows it's broken and it's nobody's job to fix it.
+
+I work the other way.
+
+I believe in serving the customer from A to Z. From the first time they hear about you, to the moment they buy, to how they're looked after once they say yes. One clear line of communication the whole way through, with as little bureaucracy in the way as possible.
+
+I've lived both halves of that. I built and sold Career Catapult System for individuals, and built ScaleSmart System to help businesses make sure their fulfilment and onboarding actually serve the customer. Getting in front of buyers is one job. Delivering once they say yes is the other. Most businesses only get good at one.
+
+That's why meeting the team at Polygroup AI felt like a perfect match. They weren't trying to throw more AI at businesses. They build bespoke AI that helps leaders communicate clearly with their teams, clients and every stakeholder in between. Safe, governed, and built around how the business actually runs.
+
+AI should serve your business, not run it.
+
+Today I lead marketing, business development and partnerships at Polygroup AI. I also run marketing and growth at Sheefan Media, building the systems that bring in the next customer for local businesses and experts.
+
+Different businesses. Same belief.
+
+Cut the bureaucracy. Own the outcome. Communicate like it matters.
+
+If that's how you want your business to run, let's talk.
 
 ---
 
@@ -55,5 +86,5 @@ Brands I've helped grow include Just Water Co, Just Solar Co, Seamless Concrete,
 
 - [ ] Get real numbers (leads, revenue, ROAS) to replace the client name list on Sheefan Media
 - [ ] Decide whether The Sheefan Show gets a line in the About section
-- [ ] Check the Unicode bold headers in the About section look right on your phone
+- [ ] Check the About section line breaks look right on your phone
 - [ ] Polygroup website bio refresh (on hold)
